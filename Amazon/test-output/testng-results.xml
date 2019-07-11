@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18188" started-at="2018-03-24T05:46:09Z" finished-at="2018-03-24T05:46:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18188" started-at="2018-03-24T05:46:09Z" finished-at="2018-03-24T05:46:28Z">
+      <class name="amzpkg1.Amazon.Launchclass">
+        <test-method status="PASS" signature="browserlogin()[pri:1, instance:amzpkg1.Amazon.Launchclass@25af5db5]" name="browserlogin" duration-ms="6852" started-at="2018-03-24T16:46:09Z" finished-at="2018-03-24T16:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlogin -->
+        <test-method status="PASS" signature="tryprimelink()[pri:2, instance:amzpkg1.Amazon.Launchclass@25af5db5]" name="tryprimelink" duration-ms="7430" started-at="2018-03-24T16:46:16Z" finished-at="2018-03-24T16:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryprimelink -->
+        <test-method status="PASS" signature="menucheck()[pri:3, instance:amzpkg1.Amazon.Launchclass@25af5db5]" name="menucheck" duration-ms="63" started-at="2018-03-24T16:46:24Z" finished-at="2018-03-24T16:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menucheck -->
+        <test-method status="PASS" signature="department1()[pri:4, instance:amzpkg1.Amazon.Launchclass@25af5db5]" name="department1" duration-ms="3789" started-at="2018-03-24T16:46:24Z" finished-at="2018-03-24T16:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- department1 -->
+      </class> <!-- amzpkg1.Amazon.Launchclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
